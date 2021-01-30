@@ -34,6 +34,8 @@
 
 **PROGRAMMING KNOWLEDGE - https://www.youtube.com/c/ProgrammingKnowledge - tutorials for Python, Excel, Power BI etc.
 
+**FC PYTHON** - https://fcpython.com/ - learn python with football 
+
 ## FREE POWER BI
 
 **GUY IN A CUBE** - https://www.youtube.com/c/GuyinaCube - POWER BI - is all about helping you master business analytics on the Microsoft Business analytics stack to allow you to drive business growth. We are just two guys doing the work.
