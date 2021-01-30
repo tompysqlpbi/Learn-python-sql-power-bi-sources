@@ -11,10 +11,13 @@ https://www.packtpub.com/ - Packt provides effective learning & information reso
 
 FREE PYTHON 
 
-https://www.youtube.com/c/codebasics - Dhaval Patel's channel
+CODE BASICS - https://www.youtube.com/c/codebasics - Dhaval Patel's channel
 
+KEITH GALLI - https://www.youtube.com/c/KGMIT - learn basics and advanced python, tips & tricks. educational videos on Computer Science, Programming,  Board Games, and more!
 
+KEN JEE - https://www.youtube.com/c/KenJee1 - fun and informative Data Science and Sports Analytics Content
 
+KRISH NAIK - https://www.youtube.com/user/krishnaik06 - tips and tricks how to work with data in python
 
 
 FREE POWER BI
@@ -28,3 +31,12 @@ CURBAL - https://www.youtube.com/c/CurbalEN/featured - POWER BI - Learn how to t
 BI ELITE - https://www.youtube.com/c/BIElite/videos - POWER BI - Power BI and DAX tips and tricks from a Microsoft Data Platform MVP
 
 365 DATA SCIENCE - https://www.youtube.com/c/365DataScience/videos -  online training 
+
+JIŘÍ BERAN - https://www.youtube.com/user/canonnokia1  - CZ channel
+
+
+FREE EXCEL
+
+LEILA GHARANI - https://www.youtube.com/c/LeilaGharani - advanced excel tips
+
+
