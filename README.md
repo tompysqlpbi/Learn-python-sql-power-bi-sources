@@ -1,14 +1,5 @@
 # **Learn python, sql or Power BI from the sources**
 
-![#1589F0] hello world `#1589F0`
-
-<p style='color:red'>This is some red text.</p>
-
-<font color="red">This is some text!</font>
-
-<span color="pink">red card</span>
-
-RED APPLE (&#x1F34E;): 🍎
 
 ## PAID
 
