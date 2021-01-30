@@ -18,12 +18,21 @@
 
 **KEN JEE** - https://www.youtube.com/c/KenJee1 - fun and informative Data Science and Sports Analytics Content
 
+**PYTHON PROGRAMMER - https://www.youtube.com/c/FlickThrough - tutorials, tps & tricks
+
 **KRISH NAIK** - https://www.youtube.com/user/krishnaik06 - tips and tricks how to work with data in python
 
 **LUMÍR BALHAR** - https://www.youtube.com/channel/UC_hjn3u-cV_3Nx35RbwT4RA/featured - tutorials in CZ language
 
 **PACKT VIDEO** - https://www.youtube.com/c/PacktVideo -  features samples of their course content, available for everyone
 
+**SIMPLILEARN** - https://www.youtube.com/c/SimplilearnOfficial - helping people acquire the skills they need to thrive in the digital economy
+
+**EDUREKAß** - https://www.youtube.com/c/edurekaIN - interactive e-learning platform with the mission of making learning accessible to everyone
+
+**FREECODECAMP** - https://www.youtube.com/c/Freecodecamp - learn to code
+
+**PROGRAMMING KNOWLEDGE - https://www.youtube.com/c/ProgrammingKnowledge - tutorials for Python, Excel, Power BI etc.
 
 ## FREE POWER BI
 
@@ -41,9 +50,18 @@
 
 **MICROSOFT POWER BI** - https://www.youtube.com/c/MSPowerBI - OFFICIAL CHANNEL
 
+**SQL BI** - https://www.youtube.com/c/SQLBI - Power BI, DAX tutorials
+
 
 ## FREE EXCEL
 
 **LEILA GHARANI** - https://www.youtube.com/c/LeilaGharani - advanced excel tips
 
 
+## FREE SQL
+
+**WISE OWL TUTORIALS** - https://www.youtube.com/user/WiseOwlTutorials  - Learn useful techniques 
+
+## PYTHON CONFERENCES
+
+** PyData** - https://www.youtube.com/user/PyDataTV - python conferences
