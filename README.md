@@ -6,7 +6,7 @@
 
 **DATACAMP** - https://datacamp.com/ - Data drives everything. Get the skills you need for the future of work.
 
-**PACKPUB** - https://www.packtpub.com/ - Packt provides effective learning & information resources such as eBooks & videos to IT professionals from web developers to data scientists.
+**PACKTPUB** - https://www.packtpub.com/ - Packt provides effective learning & information resources such as eBooks & videos to IT professionals from web developers to data scientists.
 
 
 
