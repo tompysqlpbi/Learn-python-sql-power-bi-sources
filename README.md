@@ -64,4 +64,4 @@
 
 ## PYTHON CONFERENCES
 
-** PyData** - https://www.youtube.com/user/PyDataTV - python conferences
+**PyData** - https://www.youtube.com/user/PyDataTV - python conferences
