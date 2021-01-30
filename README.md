@@ -1,7 +1,7 @@
 # Learn-python-sql-power-bi-sources
 
 
-[b]PAID[/b]
+PAID
 
 datacamp.com - Data drives everything. Get the skills you need for the future of work.
 
