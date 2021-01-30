@@ -64,6 +64,8 @@
 
 **WISE OWL TUTORIALS** - https://www.youtube.com/user/WiseOwlTutorials  - Learn useful techniques 
 
+**W3 SCHOOL** - https://www.w3schools.com/ - examples with SQL, Python etc.
+
 ## PYTHON CONFERENCES
 
 **PyData** - https://www.youtube.com/user/PyDataTV - python conferences
