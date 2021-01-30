@@ -1,4 +1,4 @@
-# **Learn-python-sql-power-bi-sources**
+# **Learn python, sql or Power BI from the sources**
 
 
 ## PAID
