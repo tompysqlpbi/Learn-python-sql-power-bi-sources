@@ -1,12 +1,8 @@
 # Learn-python-sql-power-bi-sources
 
 
-#PAID
-
-# PAID
 ## PAID
-###### PAID
-#PAID
+
 
 datacamp.com - Data drives everything. Get the skills you need for the future of work.
 
@@ -14,7 +10,7 @@ https://www.packtpub.com/ - Packt provides effective learning & information reso
 
 
 
-FREE PYTHON 
+## FREE PYTHON 
 
 CODE BASICS - https://www.youtube.com/c/codebasics - Dhaval Patel's channel
 
@@ -25,7 +21,7 @@ KEN JEE - https://www.youtube.com/c/KenJee1 - fun and informative Data Science a
 KRISH NAIK - https://www.youtube.com/user/krishnaik06 - tips and tricks how to work with data in python
 
 
-FREE POWER BI
+## FREE POWER BI
 
 GUY IN A CUBE - https://www.youtube.com/c/GuyinaCube - POWER BI - is all about helping you master business analytics on the Microsoft Business analytics stack to allow you to drive business growth. We are just two guys doing the work.
 
