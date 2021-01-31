@@ -18,7 +18,7 @@
 
 **KEN JEE** - https://www.youtube.com/c/KenJee1 - fun and informative Data Science and Sports Analytics Content
 
-**PYTHON PROGRAMMER - https://www.youtube.com/c/FlickThrough - tutorials, tps & tricks
+**PYTHON PROGRAMMER** - https://www.youtube.com/c/FlickThrough - tutorials, tps & tricks
 
 **COREY SCHAFER** - https://www.youtube.com/c/Coreyms - tutorials and walkthroughs for software developers, programmers, and engineers
 
@@ -34,7 +34,7 @@
 
 **FREECODECAMP** - https://www.youtube.com/c/Freecodecamp - learn to code
 
-**PROGRAMMING KNOWLEDGE - https://www.youtube.com/c/ProgrammingKnowledge - tutorials for Python, Excel, Power BI etc.
+**PROGRAMMING KNOWLEDGE** - https://www.youtube.com/c/ProgrammingKnowledge - tutorials for Python, Excel, Power BI etc.
 
 **FC PYTHON** - https://fcpython.com/ - learn python with football 
 
