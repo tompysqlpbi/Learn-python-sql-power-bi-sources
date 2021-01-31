@@ -20,6 +20,8 @@
 
 **PYTHON PROGRAMMER - https://www.youtube.com/c/FlickThrough - tutorials, tps & tricks
 
+**COREY SCHAFER** - https://www.youtube.com/c/Coreyms - tutorials and walkthroughs for software developers, programmers, and engineers
+
 **KRISH NAIK** - https://www.youtube.com/user/krishnaik06 - tips and tricks how to work with data in python
 
 **LUMÍR BALHAR** - https://www.youtube.com/channel/UC_hjn3u-cV_3Nx35RbwT4RA/featured - tutorials in CZ language
