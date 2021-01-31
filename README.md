@@ -30,7 +30,7 @@
 
 **SIMPLILEARN** - https://www.youtube.com/c/SimplilearnOfficial - helping people acquire the skills they need to thrive in the digital economy
 
-**EDUREKAß** - https://www.youtube.com/c/edurekaIN - interactive e-learning platform with the mission of making learning accessible to everyone
+**EDUREKA!** - https://www.youtube.com/c/edurekaIN - interactive e-learning platform with the mission of making learning accessible to everyone
 
 **FREECODECAMP** - https://www.youtube.com/c/Freecodecamp - learn to code
 
