@@ -40,6 +40,10 @@
 
 **W3SCHOOL** - https://www.w3schools.com/
 
+**BEST OF ML PYTHON** - https://github.com/ml-tooling/best-of-ml-python - Best of machine learning with Python
+
+**Pytorch** - https://github.com/pytorch/pytorch - PyTorch is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU, acceleration Deep neural networks built on a tape-based autograd system
+
 ## FREE POWER BI
 
 **GUY IN A CUBE** - https://www.youtube.com/c/GuyinaCube - POWER BI - is all about helping you master business analytics on the Microsoft Business analytics stack to allow you to drive business growth. We are just two guys doing the work.
